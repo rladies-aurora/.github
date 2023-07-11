@@ -5,6 +5,7 @@ RLA welcomes R-enthusiasts of all proficiency levels, including aspiring and exp
 
 📆 Join us on [Meetup](//meetup.com/rladies-aurora) to learn about upcoming events! <br>
 📁 Material for our past events on [GitHub](//github.com/rladies-aurora).
+🗨️ Join our community & conversation on Discord: https://bit.ly/rladies-aurora-discord
 
 ## Interests
 R | Data Science | Data Visualization | Statistics | Reproducible Research
