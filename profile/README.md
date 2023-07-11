@@ -4,7 +4,7 @@ R-Ladies Aurora (RLA) is a chapter of [R-Ladies Global](//rladies.org), an organ
 RLA welcomes R-enthusiasts of all proficiency levels, including aspiring and experienced R programmers, who are interested in mentoring, networking & expertise upskilling. Anyone and everyone interested in R/Data Science should [join the group](//meetup.com/rladies-aurora) — all genders are welcome at RLA meetups, and participants must follow the R-Ladies [code of conduct](https://guide.rladies.org/about/coc/). We encourage members to actively participate, contributing as learners, teachers, developers, or innovators! We encourage women and minority genders to present/lead most sessions and conversations, but we have no restrictions whatsoever about who can participate in membership, discussions, and other activities. Please join us and bring your R-family & R-friends!
 
 📆 Join us on [Meetup](//meetup.com/rladies-aurora) to learn about upcoming events! <br>
-📁 Material for our past events on [GitHub](//github.com/rladies-aurora).
+📁 Material for our past events on [GitHub](//github.com/rladies-aurora). <br>
 🗨️ Join our community & conversation on Discord: https://bit.ly/rladies-aurora-discord
 
 ## Interests
