@@ -11,9 +11,10 @@ RLA welcomes R-enthusiasts of all proficiency levels, including aspiring and exp
 R | Data Science | Data Visualization | Statistics | Reproducible Research
 
 ## Co-organizers
-- [Janani Ravi](//jravilab.github.io) (Founder) | [@janani137](//twitter.com/janani137) | janani@cuanschutz.edu
-- TBD
-- TBD
+- [Janani Ravi](//jravilab.github.io) (Founder) | [@janani137](//twitter.com/janani137) | janani.ravi@cuanschutz.edu
+- [Kewalin Samart](https://jravilab.github.io/authors/kewalin-samart/) (Co-organizer) | [@KewalinSamart](//twitter.com/KewalinSamart) | kewalin.samart@cuanschutz.edu
+- Jade Young (Co-organizer) | jade.young@cuanschutz.edu
+- Keenan Manperl (Co-organizer) | keenan.manperl@cuanschutz.edu
 - Interested? [Reach out to us!](mailto:aurora@rladies.org)
 
 ### ✍️ How to reach us
