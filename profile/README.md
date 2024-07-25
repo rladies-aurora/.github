@@ -18,4 +18,4 @@ R | Data Science | Data Visualization | Statistics | Reproducible Research
 - Interested? [Reach out to us!](mailto:aurora@rladies.org)
 
 ### ✍️ How to reach us
-- aurora@rladies.org | [Meetup](https://meetup.com/rladies-aurora) | [Website](https://github.com/rladies-aurora) | [Twitter](//twitter.com/@RLadies_Aurora) | [Discord](https://discord.gg/hyZKcbGSWw)
+- aurora.colorado@rladies.org | [Meetup](https://meetup.com/rladies-aurora) | [Website](https://github.com/rladies-aurora) | [Twitter](//twitter.com/@RLadies_Aurora) | [Discord](https://discord.gg/hyZKcbGSWw)
