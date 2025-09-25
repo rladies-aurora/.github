@@ -14,7 +14,8 @@ R | Data Science | Data Visualization | Statistics | Reproducible Research
 - [Janani Ravi](//jravilab.github.io) (Founder) | [@janani137](//twitter.com/janani137) | janani.ravi@cuanschutz.edu
 - [Kewalin Samart](https://jravilab.github.io/authors/kewalin-samart/) (Co-organizer) | [@KewalinSamart](//twitter.com/KewalinSamart) | kewalin.samart@cuanschutz.edu
 - Jade Young (Co-organizer) | jade.young@cuanschutz.edu
-- Keenan Manperl (Co-organizer) | keenan.manperl@cuanschutz.edu
+- Abhirupa Ghosh (Co-organizer) | abhirupa.ghosh@cuanschutz.edu
+- Aishwarya Mandava (Co-organizer) | aishwarya.mandava@cuanschutz.edu
 - Stacey Collister  (Co-organizer) | stacey.collister@cuanschutz.edu
 - Interested? [Reach out to us!](mailto:aurora@rladies.org)
 
